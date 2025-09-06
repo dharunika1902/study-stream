@@ -1,7 +1,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/d60231b3-7907-40cf-9257-7fc9c38ee499
+**URL**: commit changes
 
 ## How can I edit this code?
 
