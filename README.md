@@ -1,7 +1,7 @@
 
 ## Project info
 
-**URL**: commit changes
+**URL**: 
 
 ## How can I edit this code?
 
